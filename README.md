@@ -2,6 +2,8 @@
 
 Send Arabic and English SMS from your [Activepieces](https://www.activepieces.com) flows with [kwtSMS](https://www.kwtsms.com), the Kuwait SMS gateway.
 
+All kwtSMS integrations: [kwtsms.com/integrations](https://www.kwtsms.com/integrations/)
+
 ## Install
 
 1. In Activepieces, open **Settings > My Pieces > Install Piece**.

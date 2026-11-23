@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/readme-header-dark.png">
+  <img alt="kwtSMS for Activepieces" src=".github/assets/readme-header-light.png">
+</picture>
+
 # kwtSMS piece for Activepieces
 
 Send Arabic and English SMS from your [Activepieces](https://www.activepieces.com) flows with [kwtSMS](https://www.kwtsms.com), the Kuwait SMS gateway.
